@@ -32,5 +32,4 @@ Open the Command Prompt and change your directory to the top level of this appli
 ## Usage Information
 After the necessary installations are completed all the user needs to do is navigate to the top level directory of this project in the Command Prompt. Once there, the user should run 'node index.js.' Once entered, the user will be prompted a number of questions regarding information about their project. Once all of the prompts are answered then a README file will be automatically created for them.
 
-Link to the live site: [Weather Dashboard](https://stessman.github.io/06-Weather-Dashboard/)
-Link to a 
+Link to Usage Video: [Usage Video](https://drive.google.com/file/d/1DA-Wunz53TqsX_9c4WkxqfKEHFwTFoT_/view) 
