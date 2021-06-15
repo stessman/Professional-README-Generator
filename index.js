@@ -57,7 +57,7 @@ inquirer.prompt ([
 ]).then((data) => {
     pickLicenseInfo(data.license);
     const finalREADMEText = READMEText(data, licenseEmblemPath, licenseInfo);
-    fs.appendFile('ExampleREADME.md', finalREADMEText, (err) =>
+    fs.appendFile('CreatedREADME.md', finalREADMEText, (err) =>
     err ? console.error(err) : console.log('File Created/Updated')
     );
 });
